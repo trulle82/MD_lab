@@ -28,7 +28,4 @@ Each student is expected to hand in a written report based on the two labs with 
 
 
 If you have any questions, you can contact the lab responsibles on the following electronic addresses<br/>
-stefan.hervo_hansen@teokem.lu.se<br/>
-vidar.aspelin@teokem.lu.se<br/>
-samuel.stenberg@teokem.lu.se<br/>
-
+martin.trulsson@teokem.lu.se<br/>
