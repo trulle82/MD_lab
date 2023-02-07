@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TeamOverkill/MD_lab/HEAD) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 # Laboratory Exercise 1: Molecular Dynamics
-This repository contains two laboratory exercises in relationship to the topic of molecular dynamics as a part of the course _Statistical Thermodynamics and Molecular Simulation (KEMM38)_ 2021.
+This repository contains two laboratory exercises in relationship to the topic of molecular dynamics as a part of the course _Statistical Thermodynamics and Molecular Simulation (KEMM48)_ 2023.
 
 ## Usage
 To open the Notebooks, we consider two options. 1. The usage of Binder (recommended). 2. Running the Notebook on your local computer.
