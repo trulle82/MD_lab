@@ -21,3 +21,4 @@ dependencies:
  - openmp
  - gfortran_linux-64
  - gcc_linux-64
+ - ipywidgets <8
