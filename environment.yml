@@ -9,7 +9,7 @@ dependencies:
  - matplotlib
  - numpy
  - mdtraj
- - nglview
+ - nglview=2
  - scipy
  - pandas
  - brewer2mpl
