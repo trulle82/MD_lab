@@ -9,7 +9,7 @@ dependencies:
  - matplotlib
  - numpy
  - mdtraj
- - nglview=2
+ - nglview
  - scipy
  - pandas
  - brewer2mpl
@@ -21,4 +21,4 @@ dependencies:
  - openmp
  - gfortran_linux-64
  - gcc_linux-64
- - ipywidgets <8
+ - ipywidgets==7.*
