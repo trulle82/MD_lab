@@ -5,7 +5,13 @@ channels:
  - ambermd
  - omnia
 dependencies:
- - python=3
+ - python>=3.6
+ - pip
+ - pytest
+ - jupyterlab
+ - nodejs
+ - yarn
+ - ipywidgets==7.*
  - matplotlib
  - numpy
  - mdtraj
@@ -21,5 +27,3 @@ dependencies:
  - openmp
  - gfortran_linux-64
  - gcc_linux-64
- - ipywidgets==7.*
- - nodejs
