@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TeamOverkill/MD_lab/HEAD) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 # Laboratory Exercise 1: Molecular Dynamics
-This repository contains two laboratory exercises in relationship to the topic of molecular dynamics as a part of the course _Statistical Thermodynamics and Molecular Simulation (KEMM48)_ 2023.
+This repository contains two laboratory exercises in relationship to the topic of molecular dynamics as a part of the course _Statistical Thermodynamics and Molecular Simulation (KEMM48)_.
 
 ## Usage
 To open the Notebooks, we consider two options. 1. The usage of Binder (recommended). 2. Running the Notebook on your local computer.
@@ -27,4 +27,4 @@ This will open the Jupyter Notebook Folder with the root being the folder you ex
 Each student is expected to hand in a written report based on the two labs with the grades passed or not-passed. The written report is to be handed in no later than Tue 23/03 23:59 with the posibility of handing in a first draft no later than Fri 03/03 23:59 and recive comments no later than Fri 14/03. The report may be submitted via Canvas or email to the lab responsibles.
 
 If you have any questions, you can contact the lab responsibles on the following electronic addresses<br/>
-martin.trulsson@teokem.lu.se<br/>
+martin.trulsson@compchem.lu.se<br/>
