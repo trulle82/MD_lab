@@ -24,7 +24,7 @@ This will open the Jupyter Notebook Folder with the root being the folder you ex
 - `data` Folder containing start configurations, force field files and software input.
 
 ## Evaluation
-Each student is expected to hand in a written report based on the two labs with the grades passed or not-passed. The written report is to be handed in no later than Tue 19/03 23:59 with the posibility of handing in a first draft no later than Fri 01/03 23:59 and recive comments no later than Fri 12/03. The report may be submitted via Canvas or email to the lab responsibles.
+Each student is expected to hand in a written report based on the two labs with the grades passed or not-passed. The written report is to be handed in no later than Tue 19/03 23:59 with the posibility of handing in a first draft no later than Fri 01/03 23:59 and recive comments no later than Tue 12/03. The report may be submitted via Canvas or email to the lab responsibles.
 
 If you have any questions, you can contact the lab responsibles on the following electronic addresses<br/>
 martin.trulsson@compchem.lu.se<br/>
